@@ -1,0 +1,17 @@
+{
+  "name": "portable-chat-viewer-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engine-strict": true,
+  "engines": {
+    "node": "~10.15",
+    "npm": "~6.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "reverse-line-reader": "^0.2.6"
+  }
+}
